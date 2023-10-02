@@ -1,0 +1,10 @@
+!Config
+serverUrl: https://server1:8080
+port: 8080
+users:
+  user1:
+    email: user1@test
+    isAdmin: false
+  user2:
+    email: user2@test
+    isAdmin: true

@@ -1,0 +1,8 @@
+npc1:
+  name: grok
+  type: snake
+  size: 20
+npc2:
+  name: drb
+  type: dragon
+  size: 50
